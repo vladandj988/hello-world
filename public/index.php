@@ -1,0 +1,2 @@
+<?php 
+// fajl za prepisivanje
